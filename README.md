@@ -1,5 +1,5 @@
 # AXON Soft Interview Project - Java Data Manipulator
-Evaluation/interview project for the AXON Soft Java backend developer Summer 2023 position.
+Evaluation/interview project for the AXON Soft Java backend developer Summer 2023 contest.
 
 This project reads data from a locally-stored database in `.csv` format, validates the database's input against datetime constraints and regex formatting, then manipulates the data algorithmically and outputs it in `.json` format.
 
